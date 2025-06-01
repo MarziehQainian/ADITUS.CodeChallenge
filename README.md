@@ -67,4 +67,4 @@ This API provides endpoints for managing events and hardware reservations for th
 
 ---
 
-*Generated on 2025-05-29*
+
